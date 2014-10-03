@@ -1,0 +1,13 @@
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bin\Debug\resources.pri
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bin\Debug\AppxManifest.xml
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bin\Debug\bolly.build.appxrecipe
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\priconfig.xml.intermediate
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\layout.resfiles.intermediate
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\resources.resfiles.intermediate
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\pri.resfiles.intermediate
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\priconfig.xml
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\layout.resfiles
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\resources.resfiles
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\pri.resfiles
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\LanguageQualifiers.txt
+D:\Users\Anupama\Documents\Visual Studio 2012\Projects\bolly\bolly\bld\Debug\ProjectArchitectures.txt
